@@ -1,11 +1,4 @@
-Sites à scanner :
-- voyages-sncf.com
-- ryanair.com
-- eurolines.fr
--eurostar.com
+Description Application....
 
-Couleurs de l'application :
-Rouge sur fond vert
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/"
 
-Titre de l'application :
-Resaspi
