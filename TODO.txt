@@ -19,3 +19,6 @@ Technos web :
 - Wicket
 - Struts2
 - JSF
+
+Application lourde :
+Technologie Swing
